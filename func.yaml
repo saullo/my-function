@@ -4,3 +4,7 @@ specVersion: 0.36.0
 name: my-function
 runtime: node
 created: 2025-08-28T01:18:14.167411581-03:00
+build:
+  git:
+    url: https://github.com/saullo/my-function
+    revision: main
